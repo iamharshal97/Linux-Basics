@@ -1,0 +1,21 @@
+Package Management in linux  :- 
+package management is a method of installing and maintaining (which includes updating and probably removing as well) software on the system.
+programs were only distributed as source code, along with the required man pages, the necessary configuration files, and more.
+Nowadays, most Linux distributors use by default pre-built programs or sets of programs called packages, 
+which are presented to users ready for installation on that distribution.
+However, one of the wonders of Linux is still the possibility to obtain source code of a program to be studied, improved, and compiled.
+
+Yum:-
+yum is the primary tool for getting, installing, deleting, querying, and managing Red Hat Enterprise Linux,
+RPM software packages from official Red Hat software repositories, as well as other third-party repositories.
+yum is used in Red Hat Enterprise Linux versions 5 and later. 
+
+Some commands in YUM :-
+yum install--Installs the specified packages
+remove--Removes the specified packages
+search--Searches package metadata for keywords
+info--Lists description
+update--Updates each package to the latest version
+repolist--Lists repositories
+history--Displays what has happened in past transactions
+YUM provides many options for package management.
